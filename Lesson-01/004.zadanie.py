@@ -5,3 +5,4 @@ while X>0:
        Y = X%10
     X = X//10
 print(Y)
+

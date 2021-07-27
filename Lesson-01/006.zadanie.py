@@ -6,3 +6,4 @@ while A < B:
     A *= 1.1
     i += 1
     print(i,'-й день:', A)
+
